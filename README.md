@@ -1,2 +1,4 @@
-# eight-bit-two-function-calculator
-A very simple calculator designed and implemented in SystemVerilog; synthesized with Quartus Lite.
+# [DEPRECATED] Eight bit, Two Function Calculator
+A very simple calculator that can add and subtract; designed and implemented in SystemVerilog and synthesized with Quartus Lite on a MAX10 FPGA.
+
+
